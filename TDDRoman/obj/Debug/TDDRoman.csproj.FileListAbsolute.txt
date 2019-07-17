@@ -1,0 +1,10 @@
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\obj\Debug\TDDRoman.csprojAssemblyReference.cache
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\obj\Debug\TDDRoman.csproj.CoreCompileInputs.cache
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\bin\Debug\TDDRoman.exe.config
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\bin\Debug\TDDRoman.exe
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\bin\Debug\TDDRoman.pdb
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\bin\Debug\Shouldly.dll
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\bin\Debug\Shouldly.pdb
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\obj\Debug\TDDRoman.csproj.CopyComplete
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\obj\Debug\TDDRoman.exe
+C:\Users\radu.lipan\source\repos\TDD\TDDRoman\TDDRoman\obj\Debug\TDDRoman.pdb
